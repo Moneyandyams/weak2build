@@ -1,0 +1,21 @@
+.pizzaName{
+    text-decoration: underline;
+    font-weight: bold;
+    width: 20rem;
+}
+
+body{
+    width: 40%;
+}
+
+.whiteSauce{
+   background-color: #dceef7;  
+}
+
+.tomSauce{
+    background-color: #facdce;
+}
+
+.specialSauce{
+    background-color: #e8c0fa;
+}
